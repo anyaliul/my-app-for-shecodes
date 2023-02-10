@@ -71,3 +71,9 @@
 .search-button {
   padding-left: 50px;
 }
+
+.github-link {
+  font-size: 22px;
+  margin: 15px;
+  text-align: center;
+}
